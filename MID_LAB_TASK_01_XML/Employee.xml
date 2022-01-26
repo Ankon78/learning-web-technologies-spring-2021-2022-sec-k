@@ -1,0 +1,27 @@
+<employee>
+         <serial SL.NO.="23">
+                <name>John Carter</name>
+                <Admission_date>
+                         <date>25</date>
+                         <month>12</month>
+                         <year>2015</year>
+                </Admission_date>
+         </serial>
+         <serial SL.NO.="29">
+                <name>Bob Marshal</name>
+                <Admission_date>
+                         <date>13</date>
+                         <month>01</month>
+                         <year>1999</year>
+                </Admission_date>
+         </serial>
+         <serial SL.NO.="35">
+                <name>Clark Kent</name>
+                <Admission_date>
+                         <date>17</date>
+                         <month>06</month>
+                         <year>2005</year>
+                </Admission_date>
+         </serial>
+          
+</employee>
