@@ -1,0 +1,5 @@
+
+1|cox s bazar|ctg|23|4%|asdfghj|adi.jpg
+2|Tajhat|Rangpur|23666|2%|it is a historical place.|aditto.jpg
+3|National zoo|Dhaka|500|1%|It is our national zoo.It is very large place and lots of animals in there.|adi.jpg
+4|Rajbari|rajshahi|3000|2%|rajshahi|adi.jpg

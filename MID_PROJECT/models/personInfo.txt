@@ -1,0 +1,5 @@
+ankon|ankonsarker17@gmail.com|Male|2022-03-08|B-|SSC
+ankon|ankonsarker17@gmail.com|Male|2022-03-01|B+|SSC|C:\xampp\tmp\php2863.tmp
+ankon|ankonsarker17@gmail.com|Male|2022-03-17|B+|SSC|upload/88043647_10207991666345248_2996588778224615424_n.jpg
+linkon|ankonsarker17@gmail.com|Male|2022-03-04|O-|BSc|88100538_10207991667585279_465609918431363072_o.jpg
+ankon|ankonsarker17@gmail.com|Male|2022-03-09|B+|HSC|88100538_10207991667585279_465609918431363072_o.jpg
